@@ -2,9 +2,11 @@ Clone the repo
 
 Install the dependecies
 
-Run the tests:
+Run the tests
 
-<code>npx playwright test<code>
+```
+npx playwright test
+```
 
 Script assumes that the app is running on http://localhost:8080/
 
